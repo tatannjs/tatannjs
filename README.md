@@ -42,19 +42,4 @@ Passionné par le développement et les nouvelles technologies, j’alterne entr
 
 ---
 
-## 📈 Mes Stats GitHub
-
-![TonPseudo's GitHub stats](https://github-readme-stats.vercel.app/api?username=TonPseudo&show_icons=true&theme=github_dark)  
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=TonPseudo&layout=compact&theme=github_dark)
-
----
-
-## 📫 Me contacter
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/tonprofil/)  
-- 📧 Email : [tonemail@example.com]  
-- 🌐 Portfolio : [www.tonportfolio.com](https://www.tonportfolio.com)
-
----
-
 Merci de visiter mon profil ! N'hésitez pas à explorer mes projets ou à me contacter pour échanger 👨‍💻✨
